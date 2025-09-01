@@ -105,24 +105,13 @@ As bibliotecas utilizadas estão listadas em `requirements.txt`, incluindo:
 
 ## Execução
 
-```bash
-git clone https://github.com/seu-usuario/rul-pneus.git
-cd rul-pneus
-
-conda create -n rul-pneus python=3.11 -y
-conda activate rul-pneus
-pip install -r requirements.txt
-
-jupyter notebook RUL_Pneus.ipynb
-```
-
----
+O notebook contém todas as análises, modelagens e visualizações interativas.
+Pode ser aberto diretamente em qualquer ambiente Jupyter ou Google Colab.
 
 ## Autor
 
 **Heitor Tonet**  
-Engenheiro de Controle e Automação | Cientista de Dados  
-Foco em manutenção preditiva, mobilidade inteligente e aplicações industriais.
+Engenheiro de Controle e Automação e Cientista de Dados, com foco em manutenção preditiva industrial, especializado em modelos de RUL, detecção de falhas, séries temporais e simulações baseadas em física.
 
 ## Licença
 
